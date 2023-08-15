@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/dao/ClienteDao.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>33</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Desktop/ProyectoCrud/ProyectoCrud/Webservice1/Webservice1/src/java/dao/ClienteDao.java</file>
+            <file>file:/C:/Users/User/Desktop/ProyectoCrud/ProyectoCrud/Webservice1/Webservice1/src/java/services/ClienteResource.java</file>
+            <file>file:/C:/Users/User/Desktop/ProyectoCrud/ProyectoCrud/Webservice1/Webservice1/web/index.html</file>
+            <file>file:/C:/Users/User/Desktop/ProyectoCrud/ProyectoCrud/Webservice1/Webservice1/src/java/dao/Conexion.java</file>
+            <file>file:/C:/Users/User/Desktop/ProyectoCrud/ProyectoCrud/Webservice1/Webservice1/src/java/models/ClienteBean.java</file>
+            <file>file:/C:/Users/User/Desktop/ProyectoCrud/ProyectoCrud/Webservice1/Webservice1/src/java/services/ApplicationConfig.java</file>
+        </group>
+    </open-files>
+</project-private>
